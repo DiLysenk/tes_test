@@ -1,9 +1,6 @@
 # Числа b и h можно считывать так:
-h = input()
-b = input()
-
-h = int(h)
-b = int(b)
+h = int(input())
+b = int(input())
 
 sum_pryamo= 0.5 * h * b
 
